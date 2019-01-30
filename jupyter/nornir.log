@@ -1,0 +1,1162 @@
+2019-01-29 01:01:58,918 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-29 01:01:58,918 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-29 01:01:58,921 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-29 01:01:58,921 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-29 01:01:58,968 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-29 01:01:58,968 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-29 01:01:58,969 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-29 01:09:01,950 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-29 01:09:01,950 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-29 01:09:01,956 -  nornir.core -    DEBUG -        run() - {}
+2019-01-29 01:09:01,956 -  nornir.core -    DEBUG -        run() - {}
+2019-01-29 01:09:01,994 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-29 01:09:01,994 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-29 01:09:01,996 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-29 01:09:01,995 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 00:14:27,808 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 00:14:27,808 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 00:14:27,810 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 00:14:27,810 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 00:14:27,846 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 00:14:27,845 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 00:22:33,011 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 00:22:33,011 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 00:22:33,018 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 00:22:33,018 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 00:22:33,049 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 00:22:33,048 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:22:06,325 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:22:06,325 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:22:06,329 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:22:06,329 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:22:06,371 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,371 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:22:06,375 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,375 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,370 - nornir.core.task -    ERROR -      start() - R1: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,370 - nornir.core.task -    ERROR -      start() - R1: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:22:06,374 - nornir.core.task -    ERROR -      start() - R2: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,374 - nornir.core.task -    ERROR -      start() - R2: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,369 - nornir.core.task -    ERROR -      start() - R5: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,369 - nornir.core.task -    ERROR -      start() - R5: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:22:06,384 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,384 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:22:06,362 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:22:06,387 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,387 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:22:06,361 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:22:06,390 - nornir.core.task -    ERROR -      start() - R4: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,390 - nornir.core.task -    ERROR -      start() - R4: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,369 - nornir.core.task -    ERROR -      start() - R3: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,369 - nornir.core.task -    ERROR -      start() - R3: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,380 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:06,380 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 01:22:20,976 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:22:20,976 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:22:20,979 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:22:20,979 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:22:21,013 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:22:21,013 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:22:21,013 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:22:21,013 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:22:21,012 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:22:21,011 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:24:31,010 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:24:31,010 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 01:24:31,019 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:24:31,019 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:24:31,050 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:24:31,049 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 01:24:53,718 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with num_workers: 100
+2019-01-30 01:24:53,718 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with num_workers: 100
+2019-01-30 01:24:53,721 -  nornir.core -    DEBUG -        run() - {'getters': ['facts', 'interfaces']}
+2019-01-30 01:24:53,721 -  nornir.core -    DEBUG -        run() - {'getters': ['facts', 'interfaces']}
+2019-01-30 01:24:53,754 - nornir.core.task -     INFO -      start() - R1: napalm_get: running task
+2019-01-30 01:24:53,754 - nornir.core.task -     INFO -      start() - R1: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R3: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R3: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R5: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R5: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R7: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R7: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R9: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R9: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R2: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R2: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R6: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R6: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R10: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R10: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R8: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R8: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R4: napalm_get: running task
+2019-01-30 01:24:53,755 - nornir.core.task -     INFO -      start() - R4: napalm_get: running task
+2019-01-30 01:26:31,758 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 01:26:31,758 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 01:26:31,768 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 01:26:31,768 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 01:26:31,804 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 01:26:31,804 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 01:26:31,803 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 02:24:19,876 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 02:24:19,876 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 02:24:19,885 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip route'}
+2019-01-30 02:24:19,885 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip route'}
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:24:19,912 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:06,983 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 02:44:06,983 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 02:44:06,992 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 02:44:06,992 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 02:44:07,025 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:44:07,025 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:44:07,027 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,027 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 02:44:07,031 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:07,031 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:07,033 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,033 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,034 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,034 - nornir.core.task -    ERROR -      start() - R8: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,030 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,030 - nornir.core.task -    ERROR -      start() - R6: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 02:44:07,039 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:07,039 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:07,041 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,041 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 02:44:07,044 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:07,044 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:07,046 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,046 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,048 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,048 - nornir.core.task -    ERROR -      start() - R9: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,043 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,043 - nornir.core.task -    ERROR -      start() - R10: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 02:44:07,023 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 02:44:07,053 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:07,053 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:07,055 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,055 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "/usr/local/lib/python3.6/site-packages/nornir/plugins/tasks/networking/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 1139, in send_command
+    prompt = self.find_prompt(delay_factor=delay_factor)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 972, in find_prompt
+    self.write_channel(self.RETURN)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 360, in write_channel
+    self._write_channel(out_data)
+  File "/usr/local/lib/python3.6/site-packages/netmiko/base_connection.py", line 331, in _write_channel
+    self.remote_conn.sendall(write_bytes(out_data, encoding=self.encoding))
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 846, in sendall
+    sent = self.send(s)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/usr/local/lib/python3.6/site-packages/paramiko/channel.py", line 1180, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+
+2019-01-30 02:44:07,057 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:07,057 - nornir.core.task -    ERROR -      start() - R7: Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 62, in start
+    r = self.task(self, **self.params)
+  File "<ipython-input-37-1538e1866179>", line 6, in get_commands
+    task.run(task=netmiko_send_command, command_string=command)
+  File "/usr/local/lib/python3.6/site-packages/nornir/core/task.py", line 109, in run
+    raise NornirSubTaskError(task=task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2019-01-30 02:44:31,969 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 02:44:31,969 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 02:44:31,972 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 02:44:31,972 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 02:44:32,008 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:44:32,008 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:44:32,007 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 02:44:32,007 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 02:44:32,014 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:32,014 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:32,007 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 02:44:32,006 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 02:44:32,007 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 02:44:32,021 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:32,021 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:32,012 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:32,012 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:32,020 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:32,020 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:39,298 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:39,298 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 02:44:39,640 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:39,640 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 02:44:40,050 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:40,050 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 02:44:40,059 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:40,059 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 02:44:41,451 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 02:44:41,451 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:57:10,466 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 07:57:10,466 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 07:57:10,467 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 07:57:10,467 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip int brief | ex una'}
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R1: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R3: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R5: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R2: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:57:10,505 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 07:57:10,504 - nornir.core.task -     INFO -      start() - R4: netmiko_send_command: running task
+2019-01-30 07:57:21,414 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with num_workers: 100
+2019-01-30 07:57:21,414 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with num_workers: 100
+2019-01-30 07:57:21,437 -  nornir.core -    DEBUG -        run() - {'getters': ['facts', 'interfaces']}
+2019-01-30 07:57:21,437 -  nornir.core -    DEBUG -        run() - {'getters': ['facts', 'interfaces']}
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R1: napalm_get: running task
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R1: napalm_get: running task
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R3: napalm_get: running task
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R3: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R5: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R5: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R7: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R7: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R9: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R9: napalm_get: running task
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R2: napalm_get: running task
+2019-01-30 07:57:21,485 - nornir.core.task -     INFO -      start() - R2: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R6: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R6: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R10: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R10: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R8: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R8: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R4: napalm_get: running task
+2019-01-30 07:57:21,486 - nornir.core.task -     INFO -      start() - R4: napalm_get: running task
+2019-01-30 07:57:42,585 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 07:57:42,585 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 07:57:42,590 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 07:57:42,590 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 07:57:42,626 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 07:57:42,626 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 07:57:42,627 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 07:57:42,627 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 07:57:42,626 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 07:57:42,626 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 07:57:42,628 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 07:57:42,627 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 07:57:42,627 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 07:57:51,372 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 07:57:51,372 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 100
+2019-01-30 07:57:51,384 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip route'}
+2019-01-30 07:57:51,384 -  nornir.core -    DEBUG -        run() - {'command_string': 'show ip route'}
+2019-01-30 07:57:51,426 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:57:51,426 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:57:51,427 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:58:03,870 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 07:58:03,870 -  nornir.core -     INFO -        run() - Running task 'get_commands' with num_workers: 100
+2019-01-30 07:58:03,873 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 07:58:03,873 -  nornir.core -    DEBUG -        run() - {'commands': ['show ip int br', 'show arp']}
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R6: get_commands: running task
+2019-01-30 07:58:03,910 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:58:03,910 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:58:03,909 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 07:58:03,909 - nornir.core.task -     INFO -      start() - R10: get_commands: running task
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R8: get_commands: running task
+2019-01-30 07:58:03,915 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:58:03,915 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:58:03,909 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 07:58:03,909 - nornir.core.task -     INFO -      start() - R9: get_commands: running task
+2019-01-30 07:58:03,918 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:58:03,918 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:58:03,914 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:58:03,914 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 07:58:03,908 - nornir.core.task -     INFO -      start() - R7: get_commands: running task
+2019-01-30 07:58:03,922 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:58:03,922 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:58:06,846 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:58:06,846 - nornir.core.task -     INFO -      start() - R9: netmiko_send_command: running task
+2019-01-30 07:58:06,846 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:58:06,846 - nornir.core.task -     INFO -      start() - R10: netmiko_send_command: running task
+2019-01-30 07:58:07,046 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:58:07,046 - nornir.core.task -     INFO -      start() - R8: netmiko_send_command: running task
+2019-01-30 07:58:07,047 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:58:07,047 - nornir.core.task -     INFO -      start() - R7: netmiko_send_command: running task
+2019-01-30 07:58:07,046 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:58:07,046 - nornir.core.task -     INFO -      start() - R6: netmiko_send_command: running task
+2019-01-30 07:58:39,947 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 07:58:39,947 -  nornir.core -     INFO -        run() - Running task 'close_connections_task' with num_workers: 100
+2019-01-30 07:58:39,950 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 07:58:39,950 -  nornir.core -    DEBUG -        run() - {}
+2019-01-30 07:58:39,980 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 07:58:39,980 - nornir.core.task -     INFO -      start() - R1: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R3: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R5: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R7: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R9: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R2: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R6: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R10: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R8: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
+2019-01-30 07:58:39,981 - nornir.core.task -     INFO -      start() - R4: close_connections_task: running task
